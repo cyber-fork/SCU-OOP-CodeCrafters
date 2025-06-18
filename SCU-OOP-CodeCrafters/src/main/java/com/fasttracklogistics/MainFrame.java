@@ -1,7 +1,7 @@
 package com.fasttracklogistics;
 
 import com.fasttracklogistics.view.panels.AssignDriverPanel;
-import com.fasttracklogistics.view.panels.CustomerNotificationPanel; // ✅ Add this import
+import com.fasttracklogistics.view.panels.CustomerNotificationPanel;
 import com.fasttracklogistics.view.panels.DriverManagementPanel;
 import com.fasttracklogistics.view.panels.DriverNotificationPanel;
 import com.fasttracklogistics.view.panels.ManageShipmentsPanel;

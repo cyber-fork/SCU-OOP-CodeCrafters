@@ -12,7 +12,7 @@ public class AppLauncher {
             } catch (Exception e) {
                 System.out.println("⚠️ Failed to set look and feel. Using default.");
             }
-            
+
             MainFrame frame = new MainFrame();
             frame.setVisible(true);
         });

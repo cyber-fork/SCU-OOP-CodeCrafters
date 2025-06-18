@@ -7,9 +7,9 @@ import java.sql.SQLException;
 public class DbConnection {
 
     // Database connection details
-    private static final String URL = "jdbc:mysql://localhost:3306/logistics";  // Make sure 'logistics' database exists
+    private static final String URL = "jdbc:mysql://localhost:3306/logistic";  // Make sure 'logistics' database exists
     private static final String USER = "root";       // Update if your MySQL username is different
-    private static final String PASS = "1234";           // Add password if your MySQL has one
+    private static final String PASS = "";           // Add password if your MySQL has one
 
     private static Connection connection;
 
